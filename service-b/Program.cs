@@ -6,6 +6,7 @@ namespace ServiceB
     public class Program
     {
         // moar comments
+        // comments strike again
         public static void Main(string[] args)
         {
             var port = 80;
